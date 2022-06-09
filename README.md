@@ -7,7 +7,7 @@ RGB elevation tile (ZL4-11) from AW3D30
 	* interval: 0.1
 	* Terefore, height = -10000 + ((R * 256 * 256 + G * 256 + B) * 0.1)
 * Zoom level: from 4 to 11
-* Coverage: around Japan (see XXX.png)
+* Coverage: around Japan (see docs/2022-06-07-coverage.png)
 * Disclaimer
 	* The coverage of this data does not necessarily imply any territory border among countries. 
 	* We hold no liability for any consequence caused by the use of the Data or by the quality thereof. 

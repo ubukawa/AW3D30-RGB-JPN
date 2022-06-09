@@ -27,7 +27,7 @@ We hold no liability for any consequence caused by the use of the Data or by the
 For details, please check: https://earth.jaxa.jp/en/data/policy/
 
 # Tile URL
-https://ubukawa.github.io/
+https://ubukawa.github.io/AW3D30-RGB-JPN/zxy/{z}/{x}/{y}.png
 
 # How to make RGB tile?
 https://qiita.com/T-ubu/items/dc5022e15f2b770429b3
